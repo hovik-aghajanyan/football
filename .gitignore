@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Football/bin/Debug/netstandard2.0
+/Football/obj/Debug/netstandard2.0
+/Football/obj
+/TestFootball/bin/Debug/netcoreapp2.0
+/TestFootball/obj/Debug/netcoreapp2.0
+/TestFootball/obj
